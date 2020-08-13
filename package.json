@@ -1,0 +1,26 @@
+{
+  "name": "intro-to-vue",
+  "version": "1.0.0",
+  "description": "introduction to vue",
+  "main": "index.html",
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'no test written'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claire-Crawford/intro-to-vue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Claire Crawford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Claire-Crawford/intro-to-vue/issues"
+  },
+  "homepage": "https://github.com/Claire-Crawford/intro-to-vue#readme"
+}
